@@ -6,7 +6,8 @@ Armazene em uma variável inteira (simples) a soma entre os valores das posiçõ
 Modifique o vetor na posição 4, atribuindo a esta posição o valor 100.
 Mostre na tela cada valor do vetor A, um em cada linha.
 
-2) Faça um programa que leia um vetor de 8 posições e, em seguida, leia também dois valores X e Y quaisquer correspondentes a duas posições no vetor. Ao final, seu programa deverá escrever a soma dos valores encontrados nas respectivas posições X e Y.
+2) Faça um programa que leia um vetor de 8 posições e, em seguida, leia também dois valores X e Y quaisquer correspondentes a duas posições no vetor. 
+Ao final, seu programa deverá escrever a soma dos valores encontrados nas respectivas posições X e Y.
 
 3) Leia um vetor de 10 posições. Contar e escrever quantos valores pares ele possui.
 
