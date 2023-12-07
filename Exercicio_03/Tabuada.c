@@ -4,8 +4,7 @@
 
 #include <stdio.h>
 
-int main()
-{
+int main(){
     // vaiaveis e seus respectivos posicionamento
     int resultado[10];
     int g [0];
