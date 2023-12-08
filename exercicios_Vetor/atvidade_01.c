@@ -43,4 +43,5 @@ int main()
         // mostrar o valor, com parametro da variavel dentro do vetor
         printf("\n %d", A[i]);
     }
+    return 0;
 }
